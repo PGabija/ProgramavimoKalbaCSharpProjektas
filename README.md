@@ -1,4 +1,4 @@
-Laisvai pasirinkta tema (Student7 vertinimo sistema) sukurta su grafine vartotojo sąsaja programa ir joje pritaikyta: 
+Tema "Studentų vertinimo sistema" sukurta su grafine vartotojo sąsaja programa ir joje pritaikyta: 
 visi S.O.L.I.D. principai,
 asmeninis delegatas -> Custom delegate,
 daugybinis delegatas -> Multicast delegate, 
